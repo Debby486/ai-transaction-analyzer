@@ -1,0 +1,7 @@
+date,description,amount,category,type
+2025-01-05,POS Purchase - Food City,4500,Food,debit
+2025-01-07,Transfer from John Doe,50000,Income,credit
+2025-01-09,Airtime Recharge,1500,Utilities,debit
+2025-01-10,POS Purchase - Mr Biggs,6500,Food,debit
+2025-01-12,ATM Withdrawal,30000,Cash,debit
+2025-01-13,Bank Charges,150,Banks,debit
