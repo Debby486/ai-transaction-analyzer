@@ -2,7 +2,7 @@
 
 FastAPI + PGVector + HuggingFace Local Embeddings
 
-🧠 Overview
+Overview
 
 A semantic AI system that analyzes financial transactions using local embedding models and PGVector.
 
