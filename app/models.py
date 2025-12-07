@@ -1,5 +1,5 @@
 from sqlalchemy import Column, Integer, String, Float
-from sqlalchemy.dialects.postgresql import VECTOR
+from pgvector.sqlalchemy import Vector
 from app.database import Base
 
 class Transaction(Base):
@@ -11,4 +11,4 @@ class Transaction(Base):
     amount = Column(Float)
     category = Column(String)
     type = Column(String)
-    embedding = Column(VECTOR(1536))
+    embedding = Column(Vector(dim=384))
