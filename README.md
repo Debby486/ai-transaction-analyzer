@@ -58,3 +58,5 @@ POST /ask
 {
   "query": “How much did I spend on food?”
 }
+<img width="1717" height="914" alt="Screenshot from 2025-12-08 22-22-35" src="https://github.com/user-attachments/assets/81ea81c0-c901-4ef0-87b6-66d7899bdd14" />
+<img width="1717" height="914" alt="Screenshot from 2025-12-08 22-22-48" src="https://github.com/user-attachments/assets/fa4d2c93-9354-465b-ba23-196f2af2cd96" />
